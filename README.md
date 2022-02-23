@@ -1,1 +1,1 @@
-Vamos abstrair um bootcamp através de um projeto usando orientação a objetos.
+Vamos abstrair um bootcamp através de um projeto usando Orientação a Objetos.
