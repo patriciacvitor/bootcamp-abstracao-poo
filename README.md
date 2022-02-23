@@ -1,0 +1,1 @@
+Vamos abstrair um bootcamp através de um projeto usando orientação a objetos.
